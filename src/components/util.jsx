@@ -2,19 +2,24 @@ export const data = {
   experience: [
     {
       title: "Software Enginner",
-      subTitle: "Telstra(HP)(GIS,JS,MAGIK,JAVA)",
+      subTitle: "Telstra(HP)(JS,MAGIK,JAVA,Javascript)",
       place: "Chennai/Banglore, India",
     },
 
     {
       title: " Software Enginner",
-      subTitle: "Excel Enery(IBM)(MAGIK,JS,MQSQL)",
+      subTitle: "Excel Enery(IBM)(Javascript, XML,JQUery,HTML,GIS)",
       place: "Pune,India",
     },
     {
       title: " Senior Software Enginner",
       subTitle: "Duke Energy(IBM)(JS,MAGIK,JAVA,ESRI)",
       place: "Pune, India",
+    },
+    {
+      title: " Senior Software Enginner",
+      subTitle: "Wells Fargo & J&J(React,Angular,Vue,Jquery,ReactNative)",
+      place: "Orlando, Florida",
     },
   ],
 

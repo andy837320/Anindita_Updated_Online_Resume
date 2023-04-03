@@ -13,7 +13,7 @@ const Home = () => {
       <div className="max-w-screen-lg mb-2 p-3 mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col mb-2 justify-center h-full">
           <h2 className="text-2xl sm:text-5xl mb-2  text-blue-500 font-bold">
-            Hie 👋 This is Anindita Dey[Full Stack Developer]
+            Hie 👋 This is Anindita Das Dey[UI/UX Sr. Developer]
           </h2>
 
           <p className="text-blue-300 py-4 mx-w-md">
@@ -24,11 +24,11 @@ const Home = () => {
                 3000,
                 "Full Stack Dev 🤯",
                 3000,
-                "Experianced In GIS 🌏",
+                "Experienced In GIS 🌏 & E-commerce projects",
                 3000,
                 "React & Angular fav Framework 🎞️",
                 3000,
-                "Worked with HP & IBM 💻",
+                "Worked with HP,IBM,Wells Fargo & J&J💻",
                 3000,
                 "Completed PGDBA(MBA) with grade 'A' 🎓",
                 3000,

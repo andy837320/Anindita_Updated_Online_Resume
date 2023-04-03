@@ -14,7 +14,7 @@ const SocialLinks = () => {
           LinkedIn <AiFillLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/feed/",
+      href: "https://www.linkedin.com/in/anindita-das-dey-0a548a266/",
       style: "rounded-tr-md",
     },
     {
@@ -62,7 +62,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "./Anindita_Dey_Resume.pdf",
+      href: "./Anindita_Sr Ui.pdf",
       style: "rounded-br-md",
       download: true,
     },
