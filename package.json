@@ -1,5 +1,5 @@
 {
-  "homepage": "https://andy837320.github.io/Anindita_Resume",
+  "homepage": "https://andy837320.github.io/Anindita_Updated_Online_Resume",
   "name": "anindita_portfolio_website",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "rc-progress": "^3.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
