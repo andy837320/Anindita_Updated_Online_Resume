@@ -67,7 +67,7 @@ const Experience = () => {
                   color: "white",
                   border: "1px solid white",
                 }}
-                date=" 2009  - 2015"
+                date=" 2009- present"
                 iconStyle={{
                   background: "black",
                   color: "yellowgreen",
